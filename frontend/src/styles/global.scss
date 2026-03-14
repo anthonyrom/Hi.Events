@@ -1,4 +1,5 @@
 @use "mixins";
+@use "./fonts";
 
 :root {
   --hi-text: var(--mantine-color-primary-9);
